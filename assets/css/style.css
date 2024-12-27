@@ -31,6 +31,7 @@ a {
   display: inline-block;
   min-width: 98px;
   background: var(--primary-color);
+  padding: 18px 16px;
   border-radius: 8px;
   font-weight: 500;
   font-size: 1.4rem;
@@ -56,7 +57,7 @@ a {
 
 .navbar ul {
   display: flex;
-  margin-left: 50px;
+  margin-left: 38px;
 }
 
 .navbar ul a {
@@ -83,4 +84,41 @@ a {
 .navbar .action-btn {
   padding: 13px 16px;
   margin-left: 18px;
+}
+
+.hero {
+  margin-top: 130px;
+}
+
+.hero .info {
+  width: 51%;
+}
+
+.hero .sub-title {
+  color: #687690;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.01125rem;
+}
+
+.hero .title {
+  color: #000336;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.19;
+  margin-top: 0.5rem;
+}
+
+.hero .desc {
+  color: #5a6473;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.78;
+  margin-top: 30px;
+}
+
+.hero .hero-cta {
+  min-width: 170px;
+  margin-top: 40px;
 }
