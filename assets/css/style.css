@@ -2,22 +2,16 @@
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
-=======
 :root {
   --primary-color: #0f1b4c;
 }
 
->>>>>>> nhanh-phu
 html {
   font-size: 62.5%;
 }
 
 body {
   font-size: 1.6rem;
-<<<<<<< HEAD
-  font-family: "Poppins";
-=======
   font-family: "Poppins", sans-serif;
 }
 
@@ -89,5 +83,4 @@ a {
 .navbar .action-btn {
   padding: 13px 16px;
   margin-left: 18px;
->>>>>>> nhanh-phu
 }
