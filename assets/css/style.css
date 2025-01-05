@@ -157,3 +157,13 @@ a {
   align-items: center;
   margin-top: 96px;
 }
+
+.clients .images .img-border {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 204px;
+  height: 91px;
+  border-radius: 12px;
+  box-shadow: 0px 10px 20px #0000001a;
+}
